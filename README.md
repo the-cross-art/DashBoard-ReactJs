@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Basic DashBoard Design for General Purpose
+
+![Screenshot (7)](https://user-images.githubusercontent.com/63959831/120316556-2e0b3b80-c2fb-11eb-86ea-6451241b7685.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
