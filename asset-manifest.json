@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/DashBoard-ReactJs/static/css/main.0a50b128.chunk.css",
+    "main.js": "/DashBoard-ReactJs/static/js/main.12e2b191.chunk.js",
+    "main.js.map": "/DashBoard-ReactJs/static/js/main.12e2b191.chunk.js.map",
+    "runtime-main.js": "/DashBoard-ReactJs/static/js/runtime-main.68eef0b1.js",
+    "runtime-main.js.map": "/DashBoard-ReactJs/static/js/runtime-main.68eef0b1.js.map",
+    "static/css/2.adc6f56e.chunk.css": "/DashBoard-ReactJs/static/css/2.adc6f56e.chunk.css",
+    "static/js/2.afaad616.chunk.js": "/DashBoard-ReactJs/static/js/2.afaad616.chunk.js",
+    "static/js/2.afaad616.chunk.js.map": "/DashBoard-ReactJs/static/js/2.afaad616.chunk.js.map",
+    "static/js/3.a0833afc.chunk.js": "/DashBoard-ReactJs/static/js/3.a0833afc.chunk.js",
+    "static/js/3.a0833afc.chunk.js.map": "/DashBoard-ReactJs/static/js/3.a0833afc.chunk.js.map",
+    "index.html": "/DashBoard-ReactJs/index.html",
+    "static/css/2.adc6f56e.chunk.css.map": "/DashBoard-ReactJs/static/css/2.adc6f56e.chunk.css.map",
+    "static/css/main.0a50b128.chunk.css.map": "/DashBoard-ReactJs/static/css/main.0a50b128.chunk.css.map",
+    "static/js/2.afaad616.chunk.js.LICENSE.txt": "/DashBoard-ReactJs/static/js/2.afaad616.chunk.js.LICENSE.txt",
+    "static/media/avatar.1a84bdf0.svg": "/DashBoard-ReactJs/static/media/avatar.1a84bdf0.svg",
+    "static/media/hello.4a9307f4.svg": "/DashBoard-ReactJs/static/media/hello.4a9307f4.svg",
+    "static/media/logo.41c53598.png": "/DashBoard-ReactJs/static/media/logo.41c53598.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68eef0b1.js",
+    "static/css/2.adc6f56e.chunk.css",
+    "static/js/2.afaad616.chunk.js",
+    "static/css/main.0a50b128.chunk.css",
+    "static/js/main.12e2b191.chunk.js"
+  ]
+}
